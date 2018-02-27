@@ -13,6 +13,14 @@ http://eloquentjavascript.net/
 You Dont Know JS // Series               
 https://github.com/getify/You-Dont-Know-JS
 
+Learn this way: (You don't know JS)
+Up & Going
+Scopes and Closures
+this & Object Prototypes
+types & grammer
+Asynch & Performance
+Es6 & Beyond
+
 Essential JavaScript                     
 https://github.com/ericelliott/essential-javascript-links#essential-javascript-links
 
